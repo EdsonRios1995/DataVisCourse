@@ -1,4 +1,5 @@
-
+import os
+import csv
 
 # Open and read csv
 
